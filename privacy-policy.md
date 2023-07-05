@@ -42,6 +42,18 @@ Children’s Privacy
 
 These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do the necessary actions.
 
+GDPR LAW
+
+To ensure compliance with the General Data Protection Regulation (GDPR), our mobile app provides users with the ability to modify their preferences regarding data processing and consent. The GDPR prompt will be displayed to users upon their first app launch, allowing them to make informed choices regarding their personal data.
+
+If a user wishes to modify their GDPR prompt settings at any time, they can follow these steps:
+1) Open the app.
+2) Click the info button located in the top-left corner of the screen.
+3) Find and expand the "GDPR LAW" tile.
+4) Click the button that says 'Click Me' to access the GDPR prompt settings.
+5) A prompt will appear with options to modify your preferences for data processing and consent. Make any necessary modifications.
+
+
 Changes to This Privacy Policy
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
